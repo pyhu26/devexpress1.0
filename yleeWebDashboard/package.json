@@ -1,11 +1,15 @@
 {
-    "name": "yleeWebDashboard",
-    "version": "1.0.0",
-    "private": true,
-    "dependencies": {
-        "devextreme": "19.2.3",
-        "@devexpress/analytics-core": "19.2.3",
-        "devexpress-dashboard": "19.2.3",
-        "jquery-ui-dist": "^1.12.1"
-    }
+  "name": "yleeWebDashboard",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pyhu26/devexpress1.0.git"
+  },
+  "dependencies": {
+    "devextreme": "19.2.3",
+    "@devexpress/analytics-core": "19.2.3",
+    "devexpress-dashboard": "19.2.3",
+    "jquery-ui-dist": "^1.12.1"
+  }
 }
