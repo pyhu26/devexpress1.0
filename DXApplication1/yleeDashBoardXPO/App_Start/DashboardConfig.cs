@@ -6,7 +6,7 @@ using System.Web.Hosting;
 using DevExpress.DataAccess.Excel;
 using DevExpress.DashboardCommon;
 
-namespace yleeWebDashboard {
+namespace yleeDashBoardXPO {
     public static class DashboardConfig {
         public static void RegisterService(RouteCollection routes) {
             routes.MapDashboardRoute("dashboardControl");
